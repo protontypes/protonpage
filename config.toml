@@ -69,8 +69,6 @@ time_format_blog = "02.01.2006"
 # Everything below this are Site Params
 
 [params]
-copyright = "The Docsy Authors"
-privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -95,8 +93,6 @@ url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 github_repo = "https://github.com/google/docsy-example"
-# An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -115,9 +111,9 @@ offlineSearch = false
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = true
 #  Set to true to disable breadcrumb navigation.
-breadcrumb_disable = false
+breadcrumb_disable = true
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = true
 # Set to true to disable the About link in the site footer
@@ -146,4 +142,9 @@ enable = false
 	url = "https://github.com/protontypes"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
+
+[[params.links.developer]]
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/tobias-augspurger-5116b6191/"
+    icon = "fab fa-linkedin"
 
