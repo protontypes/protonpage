@@ -2,6 +2,7 @@
 ---
 title: "Partnering"
 linkTitle: "Partnering"
+type: docs
 weight: 6
 date: 2017-01-05
 description: >

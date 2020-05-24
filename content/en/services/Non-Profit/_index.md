@@ -1,7 +1,8 @@
 
 ---
-title: "Non Profit"
-linkTitle: "Non Profit"
+title: "Non-Profit"
+linkTitle: "Non-Profit"
+type: docs
 weight: 6
 date: 2017-01-05
 description: >

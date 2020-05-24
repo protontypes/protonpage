@@ -1,6 +1,7 @@
 ---
 title: "Training"
 linkTitle: "Training"
+type: docs
 weight: 10
 description: >
   How to contribute to the docs

@@ -2,7 +2,8 @@
 ---
 title: "Applications"
 linkTitle: "Applications"
-weight: 3
+weight: 40
+type: docs
 date: 2017-01-05
 description: >
   See your project in action!
