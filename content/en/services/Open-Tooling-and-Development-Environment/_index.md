@@ -13,3 +13,4 @@ The goal of Protontypes is to create an open reference development environment p
 
 ![](dev_ev.png)
 
+We support you in establishing complex continouse integration and deployment development environments adapted from autonomous logistic. [[1]](https://www.missinglinkelectronics.com/www/images/LandingPage/FPGA4ADAS_2/9_Augspurger_StreetScooter_Open-Source-System-Prototyping-in-Autonomous-Logistics.pdf)
