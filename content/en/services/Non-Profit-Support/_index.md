@@ -1,7 +1,7 @@
 
 ---
-title: "Non-Profit Support"
-linkTitle: "Non-Profit Support"
+title: "Apply for Non-Profit Support"
+linkTitle: "Apply for Non-Profit Support"
 type: docs
 weight: 6
 date: 2017-01-05
@@ -11,7 +11,7 @@ description: >
 
 Protontypes focus lies on open sustainable technology support. We are committed to investing all revenues in supporting sustainable non-profit start-ups.
 
-A project is considered to be sustainable if it alignes with at least on of UNs [Sustainable Development Goals](https://sustainabledevelopment.un.org).
+A project is considered to be sustainable if it alignes with at least one of [Sustainable Development Goals](https://sustainabledevelopment.un.org) defined by the United Nations.
 
 Please [write us](/contact/) an email with the answer on the following questions:
 

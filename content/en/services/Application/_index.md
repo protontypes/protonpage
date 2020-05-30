@@ -1,7 +1,7 @@
 
 ---
-title: "Applications"
-linkTitle: "Applications"
+title: "Applications and Support"
+linkTitle: "Applications and Support"
 weight: 3 
 type: docs
 date: 2017-01-05

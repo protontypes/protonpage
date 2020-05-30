@@ -1,6 +1,6 @@
 ---
-title: "Open Tooling and Development Environment"
-linkTitle: "Open Tooling and Development Environment"
+title: "Open Tooling and Development"
+linkTitle: "Open Tooling and Development"
 type: docs
 weight: 2
 description: >
@@ -13,4 +13,3 @@ The goal of Protontypes is to create an open reference development environment p
 
 ![](dev_ev.png)
 
-​    
