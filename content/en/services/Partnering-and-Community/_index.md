@@ -14,9 +14,9 @@ Protontypes supports you in active community building and care:
 * Community Work and Events
 * Community Communication
 
-We also enable you to create partnerships with other organisations of your industry:
+We also enable you to create partnerships with organisations of your industry:
 
-* Reduce software cost by creating a common software baseline for your industry
+* Reduce development cost by creating a common software baseline for your industry
 * Create standards by open source software with your partners
 * Open Interfaces for simple and compatible software APIs
 

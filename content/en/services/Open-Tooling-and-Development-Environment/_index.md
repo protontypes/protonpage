@@ -4,13 +4,13 @@ linkTitle: "Open Tooling and Development"
 type: docs
 weight: 2
 description: >
-  What open technology can be benefical for your innovative product development?
+  What open technology can be beneficial for your innovative product development?
 ---
 
-Protontypes concenrates long time experiences in the application of open source tooling for product development in the section of robotics, big data, software testing, autonmous driving and many other domains. This knowledge is already documented and maintained in the [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) list by Protontypes. The list grew to on of the major starting point for developers and organisations in the exchange of robotic tooling.
+Protontypes offers long time experiences in the application of open source tooling for product development in the section of robotics, big data, software testing, autonomous driving and many other domains. This knowledge is already documented and maintained in the [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) list by Protontypes. The list grew to one of the major entry points for developers and organizations in the exchange of robotic tooling.
 
 The goal of Protontypes is to create an open reference development environment platform that can be adapted and customized for start-ups and companies.
 
 ![](dev_ev.png)
 
-We support you in establishing complex continouse integration and deployment development environments adapted from autonomous logistic. [[1]](https://www.missinglinkelectronics.com/www/images/LandingPage/FPGA4ADAS_2/9_Augspurger_StreetScooter_Open-Source-System-Prototyping-in-Autonomous-Logistics.pdf)
+We support you in establishing complex continuous integration and deployment development environments adapted from autonomous logistic. [[1]](https://www.missinglinkelectronics.com/www/images/LandingPage/FPGA4ADAS_2/9_Augspurger_StreetScooter_Open-Source-System-Prototyping-in-Autonomous-Logistics.pdf)

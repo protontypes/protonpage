@@ -9,7 +9,7 @@ description: >
   Where can I find support in the application of open technologies?
 ---
 
-Protontypes acts as a channel for open technologie support. We have good contacts to multiple professional organisation for the open toolsets we advice to use.
+Protontypes acts as a platform for open technologie support. We stay in touch to multiple organisation for the open toolsets we advice to use. Our Open Source application engineers support you in all domains of technology integration.
 
 Protontypes can be first level support for professional open source applications in your organisation. Our goal is not to replace classical support but to forwards you to the open source companies and organisations that fit to your needs. 
 
