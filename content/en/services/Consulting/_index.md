@@ -10,11 +10,12 @@ description: >
 
 Protontypes offers consulting on open source application and business strategies for developers and management including:
 
-* Consulting open source business models like open core, software-as-a-service or support only
+* Investigations on existing high quality open source product for your industry
+* Consulting on open source business models like open core, software-as-a-service or support only
+* Consulting on business and innovation potential
 * Appropriate licensing for your open source release
 * Maintenance strategies for longtime support, adaption and improvements
 * Community creation and conservation
 * Usage of different open source licenses in your organization
-* Building Partnership based on open technologies like the Autoware Foundation
-* Investigration on open source product for your industry
+* Building partnerships and ecosystems based on open technologies like the [Autoware Foundation](https://www.autoware.org/)
  

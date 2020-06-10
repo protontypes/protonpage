@@ -150,8 +150,15 @@ enable = false
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 
-[[params.links.developer]]
+[[params.links.user]]
     name = "Linkedin"
     url = "https://www.linkedin.com/in/tobias-augspurger-5116b6191/"
     icon = "fab fa-linkedin"
+        desc = "Get Connected"
+
+[[params.links.user]]
+    name = "Discourse"
+    url = "https://discourse.protontypes.eu"
+    icon = "fab fa-discourse"
+        desc = "Open Community Support"
 
