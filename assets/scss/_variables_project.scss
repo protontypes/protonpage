@@ -12,3 +12,18 @@ $td-enable-google-fonts: true;
 $enable-gradients: true;
 $enable-rounded: true;
 $enable-shadows: true;
+
+h1.ds{
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.ds{
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.headerlogo{
+    max-width: 600px;
+    margin-bottom: 50px;
+}

@@ -14,7 +14,7 @@ contentDir = "content/en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
-enableMissingTranslationPlaceholders = true
+enableMissingTranslationPlaceholders = false
 
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
@@ -41,7 +41,7 @@ latexDashes = true
 # Image processing configuration.
 [imaging]
 resampleFilter = "CatmullRom"
-quality = 100
+quality = 75
 anchor = "smart"
 
 [services]
@@ -168,3 +168,7 @@ enable = false
     icon = "fab fa-discourse"
         desc = "Open Community Support"
 
+[[menu.main]]
+    name = "Community"
+    weight = 50
+    url = "https://discourse.protontypes.eu"
