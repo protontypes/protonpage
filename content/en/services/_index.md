@@ -55,7 +55,7 @@ Read on to find out more, or get in touch with Protontypes and the [**community*
   <tr>
    <td><strong>Partnerships and communities</strong>
    </td>
-   <td>Build ecosystems based on open technologies like the [Autoware Foundation](https://www.autoware.org/) or [ELISA](https://elisa.tech/).
+   <td>Build ecosystems based on open technologies.
    </td>
   </tr>
 </table>
@@ -64,7 +64,7 @@ Read on to find out more, or get in touch with Protontypes and the [**community*
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="dark" %}}
-## Where find support in the application of open technologies?
+## Find support in the application of open technologies
 
  We stay in touch to multiple organisation and experts for the toolsets we advice to use. Our open source application engineers support you in all domains of technology integration. After identifying your requirements, we evaluate suitable technologies on which you can build. On the basis of exemplary implementations, we show you opportunities and challenges right from the start.
 
@@ -74,7 +74,7 @@ If no professional support can be archived by the original open source project o
 
 
 {{% blocks/lead type="section" color="white" %}}
-## Where find the proper tooling?
+## Find the proper tooling
 
 Protontypes offers experiences in the application of open source tooling for product development in the section of robotics, big data, software testing, autonomous driving and many other domains.
 This knowledge is already documented and maintained in the [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) list by Protontypes.
@@ -85,7 +85,7 @@ The list grew to one of the major entry points for developers and organizations 
 
 
 {{% blocks/section type="section" color="primary" %}}
-## What is necessary to sustain an active community around my product development? 
+## Sustain an active community around product development 
 
 Protontypes supports you in active community building and care:
 
@@ -94,7 +94,7 @@ Protontypes supports you in active community building and care:
 * Community Work and Events
 * Community Communication
 
-We also enable you to create partnerships with organisations of your industry:
+We also enable you to create partnerships with organizations of your industry:
 
 * Reduce development cost by creating a common software baseline for your industry
 * Create standards by open source software with your partners
@@ -115,6 +115,8 @@ Making you independent from our services is our concern. That's why we train you
 * Continuous integration and deployment
 * Evaluation of third party applications for quality and suitability
 * Contribution to open technology
+* Rapid Prototyping based on existing code base
+
 
 Training and education for longtime success of your organization:
 

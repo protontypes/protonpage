@@ -4,7 +4,7 @@ Add styles or override variables from the theme here.
 
 */
 
-$primary: #20c997;
+$primary: #ffffff;
 $secondary: #17a2b8;
 
 
@@ -12,6 +12,11 @@ $td-enable-google-fonts: true;
 $enable-gradients: true;
 $enable-rounded: true;
 $enable-shadows: true;
+
+$navbar-dark-color: rgba(0,0,0, 0.75) !default;
+$navbar-dark-hover-color: rgba(0,0,0, 0.5) !default;
+$navbar-dark-active-color: #ffffff !default;
+$navbar-dark-disabled-color: rgba(0,0,0,0.25) !default;
 
 h1.ds{
     font-size: 2em;
