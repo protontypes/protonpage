@@ -14,7 +14,7 @@ The development of innovative products requires creative people with efficent to
 Our services are seperated into public and privat support. Please check out our community for public acceleration of our product
 
 
-Read on to find out more, or get in touch with Protontypes and the [**community**](/docs/) to get started!
+[Read more](/services/consulting/) about the open accelerator documentation, or get in touch with Protontypes and the [**community**](/community/)!
 {{% /blocks/cover %}}
 
 {{% blocks/section type="section" color="primary" %}}
@@ -25,35 +25,35 @@ Read on to find out more, or get in touch with Protontypes and the [**community*
   <tr>
    <td><strong>Investigations</strong>
    </td>
-   <td>Find existing high quality open source products in your industry
+   <td>Find existing high quality open source products in your industry.
    </td>
   </tr>
   <tr>
    <td><strong>InnerSource</strong>
    </td>
-   <td>Adapt open community methods to increase collaboration and innovation between units of your organisation
+   <td>Adapt open community methods to increase collaboration and innovation between units of your organisation.
    </td>
   </tr>
   <tr>
-   <td><strong>Open source business models</strong>
+   <td><strong>Open Source Business Models</strong>
    </td>
    <td>Find the best business model for your product like open core, software-as-a-service or support only.
    </td>
   </tr>
   <tr>
-   <td><strong>Analyse business and innovation potentials</strong>
+   <td><strong>Analyse Business and Innovation Potentials</strong>
    </td>
-   <td>Get into new markets and technology
+   <td>Get into new markets and technology.
    </td>
   </tr>
   <tr>
    <td><strong>Open Source Licensing</strong>
    </td>
-   <td>licenses in your organization for product development and internal infrastructure
+   <td>Apply free and open licenses for product development and internal infrastructure.
    </td>
   </tr>
   <tr>
-   <td><strong>Partnerships and communities</strong>
+   <td><strong>Partnerships and Communities</strong>
    </td>
    <td>Build ecosystems based on open technologies.
    </td>
