@@ -9,17 +9,40 @@ layout: docs
 
 {{% blocks/cover title="Services" height="auto" %}}
 
-The development of innovative products requires creative people with efficent tooling, flexible infrastructure, open organisations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from prove-of-concepts to market release.
-
-Our services are seperated into public and privat support. Please check out our community for public acceleration of our product
-
-
-[Read more](/services/consulting/) about the open accelerator documentation, or get in touch with Protontypes and the [**community**](/community/)!
 {{% /blocks/cover %}}
 
-{{% blocks/section type="section" color="primary" %}}
-## What strategies does a organization need to create economic and successful products based on open technology?<br>
+{{< blocks/section color="white" >}}
+{{% blocks/feature icon="fa fa-project-diagram" title="Consulting" url="#what-strategies-does-a-organization-need-to-create-economic-and-successful-products-based-on-open-technology" %}}
+What strategies does a organization need to create economic and successful products based on open technology? {{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa fa-hands-helping" title="Application and Support" url="#where-can-you-find-support-in-the-application-of-open-technologies" %}}
+Where can you find support in the application of open technologies?
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa fa-chalkboard" title="Training" url="#how-can-i-train-and-educate-management-and-developers-in-the-usage-for-open-technology" %}}
+How can you train and educate management and developers in the usage for open technology?
+{{% /blocks/feature %}}
+
+
+
+{{< /blocks/section >}}
+
+{{% blocks/section type="section" color="dark" %}}
+# Public and Privat Support
+
+The development of innovative products requires creative people with efficent tooling, flexible infrastructure, open organisations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from prove-of-concepts to market release.
+
+Our services are seperated into public and privat support. Please check out our community for public acceleration of our product.
+
+[**Read more**](/services/consulting/) about the open accelerator documentation, or get in touch with Protontypes and the [**community**](/community/)!
+{{< /blocks/section >}}
+
+{{% blocks/section type="section" color="white" %}}
+## What strategies does a organization need to create economic and successful products based on open technology?
+
 <br>
+&nbsp      
+<br/>
 
 <table>
   <tr>
@@ -64,7 +87,7 @@ Our services are seperated into public and privat support. Please check out our 
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="dark" %}}
-## Find support in the application of open technologies
+## Where can you find support in the application of open technologies?
 
  We stay in touch to multiple organisation and experts for the toolsets we advice to use. Our open source application engineers support you in all domains of technology integration. After identifying your requirements, we evaluate suitable technologies on which you can build. On the basis of exemplary implementations, we show you opportunities and challenges right from the start.
 
@@ -84,7 +107,27 @@ The list grew to one of the major entry points for developers and organizations 
 {{% /blocks/lead %}}
 
 
-{{% blocks/section type="section" color="primary" %}}
+{{% blocks/section type="section" color="dark" %}}
+## How can I train and educate management and developers in the usage for open technology?
+Making you independent from our services is our concern. That's why we train your team in business and research application of open source technology:
+
+* Installation and administration of open technology
+* Maintenance and roadmap support for open source projects 
+* Using Github or Gitlab for advanced version control bringing traceability and simple searchability
+* Continuous integration and deployment 
+* Evaluation of free third party applications for quality and suitability
+* Contribution to free projects your depend on by bugfixing, feature integration, donating or issue reporting
+* Rapid Prototyping based on existing code base
+
+
+Training and education for longtime success of your organization:
+
+* Long-time effects by open technology strategies
+* Patent risks and opportunities in the usage of open source technology
+* Appropriate Project Management methods like [SCRUM](https://www.scrumguides.org/scrum-guide.html), [Extreme Programming](http://www.extremeprogramming.org/) or the [V-Model](https://en.wikipedia.org/wiki/V-Model).
+{{% /blocks/section %}}
+
+{{% blocks/section type="section" color="white" %}}
 ## Sustain an active community around product development 
 
 Protontypes supports you in active community building and care:
@@ -102,24 +145,3 @@ We also enable you to create partnerships with organizations of your industry:
 
 
 {{% /blocks/section %}}
-  
-
-
-{{% blocks/section type="section" color="dark" %}}
-## How can I train and educate management and developers in the usage for open technology?
-Making you independent from our services is our concern. That's why we train your team in the business and research application of open source technology:
-
-* Installation and administration of open technology
-* Maintenance of projects
-* Using Github or Gitlab 
-* Continuous integration and deployment
-* Evaluation of third party applications for quality and suitability
-* Contribution to open technology
-* Rapid Prototyping based on existing code base
-
-
-Training and education for longtime success of your organization:
-
-* Long-time effects by open technology strategies
-* Patent risks and opportunities in the usage of open source technology
-* Appropriate Project Management methods like [SCRUM](https://www.scrumguides.org/scrum-guide.html), [Extreme Programming](http://www.extremeprogramming.org/) or the [V-Model](https://en.wikipedia.org/wiki/V-Model).
