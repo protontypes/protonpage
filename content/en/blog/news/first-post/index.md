@@ -1,7 +1,7 @@
 ---
-date: 2018-10-06
-title: "Easy documentation with Docsy"
-linkTitle: "Announcing Docsy"
+date: 2020-06-20
+title: "A home to spread open innovation and technology"
+linkTitle: "Announcing Protontypes"
 description: "The Docsy Hugo theme lets project maintainers and contributors focus on content, not on reinventing a website infrastructure from scratch"
 author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
 resources:
