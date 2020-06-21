@@ -9,9 +9,10 @@ layout: docs
 
 {{% blocks/cover title="Services" height="auto" %}}
 
+The development of innovative products requires creative people with efficent tooling, flexible infrastructure, open organisations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from prove-of-concepts to market release.
 {{% /blocks/cover %}}
 
-{{< blocks/section color="white" >}}
+{{< blocks/section color="dark" >}}
 {{% blocks/feature icon="fa fa-project-diagram" title="Consulting" url="#what-strategies-does-a-organization-need-to-create-economic-and-successful-products-based-on-open-technology" %}}
 What strategies does a organization need to create economic and successful products based on open technology? {{% /blocks/feature %}}
 
@@ -19,22 +20,12 @@ What strategies does a organization need to create economic and successful produ
 Where can you find support in the application of open technologies?
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa fa-chalkboard" title="Training" url="#how-can-i-train-and-educate-management-and-developers-in-the-usage-for-open-technology" %}}
+{{% blocks/feature icon="fa fa-chalkboard-teacher" title="Training" url="#how-can-my-organization-apply-for-non-profit-support" %}}
 How can you train and educate management and developers in the usage for open technology?
 {{% /blocks/feature %}}
 
 
 
-{{< /blocks/section >}}
-
-{{% blocks/section type="section" color="dark" %}}
-# Public and Privat Support
-
-The development of innovative products requires creative people with efficent tooling, flexible infrastructure, open organisations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from prove-of-concepts to market release.
-
-Our services are seperated into public and privat support. Please check out our community for public acceleration of our product.
-
-[**Read more**](/services/consulting/) about the open accelerator documentation, or get in touch with Protontypes and the [**community**](/community/)!
 {{< /blocks/section >}}
 
 {{% blocks/section type="section" color="white" %}}
@@ -89,26 +80,44 @@ Our services are seperated into public and privat support. Please check out our 
 {{% blocks/section type="section" color="dark" %}}
 ## Where can you find support in the application of open technologies?
 
+Our services are seperated into public and privat support. Please check out the community for public acceleration of our product.
+
+[**Read more**](/services/consulting/) about the open accelerator documentation, or get in touch with Protontypes and the [**community**](/community/).
+
  We stay in touch to multiple organisation and experts for the toolsets we advice to use. Our open source application engineers support you in all domains of technology integration. After identifying your requirements, we evaluate suitable technologies on which you can build. On the basis of exemplary implementations, we show you opportunities and challenges right from the start.
 
 If no professional support can be archived by the original open source project owner or the community, Protontypes fills this gab with experties and resources to ensure long time support and industrialization of research code. 
 {{% /blocks/section %}}
 
 
-
 {{% blocks/lead type="section" color="white" %}}
-## Find the proper tooling
+# Find the proper tooling
 
 Protontypes offers experiences in the application of open source tooling for product development in the section of robotics, big data, software testing, autonomous driving and many other domains.
 This knowledge is already documented and maintained in the [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) list by Protontypes.
 The list grew to one of the major entry points for developers and organizations in the exchange of robotic tooling.
-
-
 {{% /blocks/lead %}}
 
 
 {{% blocks/section type="section" color="dark" %}}
-## How can I train and educate management and developers in the usage for open technology?
+## How can my organization apply for non-profit support?
+
+Protontypes focus lies on open sustainable technology support. We are committed to investing all revenues in supporting sustainable non-profit start-ups.
+
+A project is considered to be sustainable if it aligns with at least one of Sustainable Development Goals defined by the United Nations.
+
+Please write us an open application on [discourse](https://discourse.protontypes.eu/c/project-proposals-and-applications) or write privatly an email to team|at|protontypes.eu with the answer on the following questions to apply for non-profit support:
+
+* How does your organization support sustainable technology development?
+* What is the support your organization needs?
+* Why do your think that open and sustainable technology does fit together?
+
+Selection is based on free resources available in our organization and community.
+{{% /blocks/section %}}
+
+
+{{% blocks/section type="section" color="white" %}}
+## How can I train my organization in the usage for open technology?
 Making you independent from our services is our concern. That's why we train your team in business and research application of open source technology:
 
 * Installation and administration of open technology
@@ -127,7 +136,7 @@ Training and education for longtime success of your organization:
 * Appropriate Project Management methods like [SCRUM](https://www.scrumguides.org/scrum-guide.html), [Extreme Programming](http://www.extremeprogramming.org/) or the [V-Model](https://en.wikipedia.org/wiki/V-Model).
 {{% /blocks/section %}}
 
-{{% blocks/section type="section" color="white" %}}
+{{% blocks/section type="section" color="dark" %}}
 ## Sustain an active community around product development 
 
 Protontypes supports you in active community building and care:
