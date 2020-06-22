@@ -11,7 +11,7 @@ layout: docs
 
 {{< blocks/link-down color="info" >}}
 
-The development of innovative products requires creative people with efficent tooling, flexible infrastructure, open organisations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from prove-of-concepts to market release.
+The development of innovative products requires creative people with efficient tooling, flexible infrastructure, open organizations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from prove-of-concepts to market release.
 {{% /blocks/cover %}}
 
 {{< blocks/section color="dark" >}}
@@ -47,7 +47,7 @@ How can you train and educate management and developers in the usage for open te
   <tr>
    <td><strong>InnerSource</strong>
    </td>
-   <td>Adapt open community methods to increase collaboration and innovation between units of your organisation.
+   <td>Adapt open community methods to increase collaboration and innovation between units of your organization.
    </td>
   </tr>
   <tr>
@@ -82,13 +82,13 @@ How can you train and educate management and developers in the usage for open te
 {{% blocks/section type="section" color="dark" %}}
 ## Where can you find support in the application of open technologies?
 
-Our services are seperated into public and privat support. Please check out the community for public acceleration of our product.
+Our services are separated into public and private support. Please check out the community for public acceleration of our product.
 
 [**Read more**](/services/consulting/) about the open accelerator documentation, or get in touch with Protontypes and the [**community**](/community/).
 
- We stay in touch to multiple organisation and experts for the toolsets we advice to use. Our open source application engineers support you in all domains of technology integration. After identifying your requirements, we evaluate suitable technologies on which you can build. On the basis of exemplary implementations, we show you opportunities and challenges right from the start.
+ We stay in touch to multiple organization and experts for the toolset we advice to use. Our open source application engineers support you in all domains of technology integration. After identifying your requirements, we evaluate suitable technologies on which you can build. On the basis of exemplary implementations, we show you opportunities and challenges right from the start.
 
-If no professional support can be archived by the original open source project owner or the community, Protontypes fills this gab with experties and resources to ensure long time support and industrialization of research code. 
+If no professional support can be archived by the original open source project owner or the community, Protontypes fills this gab with expertise and resources to ensure long time support and industrialization of research code. 
 {{% /blocks/section %}}
 
 
@@ -108,7 +108,7 @@ Protontypes focus lies on open sustainable technology support. We are committed 
 
 A project is considered to be sustainable if it aligns with at least one of Sustainable Development Goals defined by the United Nations.
 
-Please write us an open application on [discourse](https://discourse.protontypes.eu/c/project-proposals-and-applications) or write privatly an email to team|at|protontypes.eu with the answer on the following questions to apply for non-profit support:
+Please write us an open application on [discourse](https://discourse.protontypes.eu/c/project-proposals-and-applications) or write privately an email to team|at|protontypes.eu with the answer on the following questions to apply for non-profit support:
 
 * How does your organization support sustainable technology development?
 * What is the support your organization needs?
@@ -127,7 +127,7 @@ Making you independent from our services is our concern. That's why we train you
 * Using Github or Gitlab for advanced version control bringing traceability and simple searchability
 * Continuous integration and deployment 
 * Evaluation of free third party applications for quality and suitability
-* Contribution to free projects your depend on by bugfixing, feature integration, donating or issue reporting
+* Contribution to free projects your depend on by bug fixing, feature integration, donating or issue reporting
 * Rapid Prototyping based on existing code base
 
 
