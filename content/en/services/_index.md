@@ -9,9 +9,10 @@ layout: docs
 
 {{% blocks/cover title="Services" height="auto" %}}
 
-{{< blocks/link-down color="info" >}}
 
 The development of innovative products requires creative people with efficient tooling, flexible infrastructure, open organizations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from prove-of-concepts to market release.
+
+{{< blocks/link-down color="info" >}}
 {{% /blocks/cover %}}
 
 {{< blocks/section color="dark" >}}
@@ -106,12 +107,18 @@ The list grew to one of the major entry points for developers and organizations 
 
 Protontypes focus lies on open sustainable technology support. We are committed to investing all revenues in supporting sustainable non-profit start-ups.
 
-A project is considered to be sustainable if it aligns with at least one of Sustainable Development Goals defined by the United Nations.
+A project is considered to be sustainable if it aligns with [Sustainable Development Goals](https://sustainabledevelopment.un.org/) defined by the United Nations.
 
-Please write us an open application on [discourse](https://discourse.protontypes.eu/c/project-proposals-and-applications) or write privately an email to team|at|protontypes.eu with the answer on the following questions to apply for non-profit support:
+Please write us an open application on [discourse](https://discourse.protontypes.eu/c/project-proposals) or write privately an email to team|at|protontypes.eu with the answer on the following questions to apply for non-profit support:
+
+* Brief description of your Project
+* State of the art, investigations and usual solution
+* Solution
+* What is the support your project or organization needs?
+
+To increase your chance for acceleration please answer the following questions:
 
 * How does your organization support sustainable technology development?
-* What is the support your organization needs?
 * Why do your think that open and sustainable technology does fit together?
 
 Selection is based on free resources available in our organization and community.

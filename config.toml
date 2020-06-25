@@ -71,7 +71,7 @@ time_format_blog = "02.01.2006"
 
 [params]
 copyright = "Protontypes"
-privacy_policy = "https://protontypes.eu/privacy"
+privacy_policy = "https://discourse.protontypes.eu/t/privacy-policy/"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -159,12 +159,6 @@ enable = false
     icon = "fab fa-linkedin"
         desc = "Get Connected"
 
-[[params.links.user]]
-    name = "Phone"
-    url = "/contact/"
-    icon = "fa fa-phone"
-        desc = "Call us"
-
 [[params.links.developer]]
     name = "Discourse"
     url = "https://discourse.protontypes.eu"
@@ -172,6 +166,6 @@ enable = false
         desc = "Open Community Support"
 
 [[menu.main]]
-    name = "Community"
-    weight = 50
+    name = "Open Accelerator"
+    weight = 1 
     url = "https://discourse.protontypes.eu"
