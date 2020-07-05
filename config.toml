@@ -55,7 +55,7 @@ id = "UA-00000000-0"
 [languages]
 [languages.en]
 title = ""
-description = "Open Technology Accelerator"
+description = "Stand on the shoulder of giants"
 languageName ="English"
 # Weight used for sorting.
 weight = 1

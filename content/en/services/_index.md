@@ -3,14 +3,14 @@ title: Services
 linkTitle: Services
 menu:
   main:
-    weight: 10
+    weight: 3
 layout: docs
 ---
 
 {{% blocks/cover title="Services" height="auto" %}}
 
 
-The development of innovative products requires creative people with efficient tooling, flexible infrastructure, open organizations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from prove-of-concepts to market release.
+The development of innovative products requires creative people with efficient tooling, flexible infrastructure, open organizations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from proof-of-concepts to market release.
 
 {{< blocks/link-down color="info" >}}
 {{% /blocks/cover %}}
@@ -20,7 +20,7 @@ The development of innovative products requires creative people with efficient t
 What strategies does a organization need to create economic and successful products based on open technology? {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa fa-hands-helping" title="Application and Support" url="#where-can-you-find-support-in-the-application-of-open-technologies" %}}
-Where can you find support in the application of open technologies?
+Where can you find support in the application of open technologies for your development environment, infrastructure and product?
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa fa-chalkboard-teacher" title="Training" url="#how-can-my-organization-apply-for-non-profit-support" %}}
@@ -32,7 +32,7 @@ How can you train and educate management and developers in the usage for open te
 {{< /blocks/section >}}
 
 {{% blocks/section type="section" color="white" %}}
-## What strategies does a organization need to create economic and successful products based on open technology?
+## What strategies does an organization need to create economic and successful products based on open technology?
 
 <br>
 &nbsp      
@@ -89,23 +89,26 @@ Our services are separated into public and private support. Please check out the
 
  We stay in touch to multiple organization and experts for the toolset we advice to use. Our open source application engineers support you in all domains of technology integration. After identifying your requirements, we evaluate suitable technologies on which you can build. On the basis of exemplary implementations, we show you opportunities and challenges right from the start.
 
-If no professional support can be archived by the original open source project owner or the community, Protontypes fills this gab with expertise and resources to ensure long time support and industrialization of research code. 
+If no professional support can be achieved by the original open source project owner or the community, Protontypes fills this gap with expertise and resources to ensure long time support and industrialization of research code. 
 {{% /blocks/section %}}
 
 
-{{% blocks/lead type="section" color="white" %}}
-# Find the proper tooling
+{{% blocks/section type="section" color="white" %}}
+# Find the right toolchain for your services and products
 
-Protontypes offers experiences in the application of open source tooling for product development in the section of robotics, big data, software testing, autonomous driving and many other domains.
-This knowledge is already documented and maintained in the [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) list by Protontypes.
-The list grew to one of the major entry points for developers and organizations in the exchange of robotic tooling.
-{{% /blocks/lead %}}
+Protontypes offers experiences in the application of open source tooling for product development in the domain of robotics, big data, software testing, autonomous driving and many other domains.
+Our toolchain in robotics documented and maintained in the [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) list by Protontypes.
+The list grew to be one of the major entry points for developers and organizations in the exchange of robotic tooling.                     
+
+<img src="devops-toolchain.svg" class="sectionlogocenter"/>
+
+{{% /blocks/section %}}
 
 
 {{% blocks/section type="section" color="dark" %}}
 ## How can my organization apply for non-profit support?
 
-Protontypes focus lies on open sustainable technology support. We are committed to investing all revenues in supporting sustainable non-profit start-ups.
+The focus of Protontypes is open sustainable technology support. We are committed to invest all revenues in the support of sustainable start-ups.
 
 A project is considered to be sustainable if it aligns with [Sustainable Development Goals](https://sustainabledevelopment.un.org/) defined by the United Nations.
 
@@ -131,11 +134,12 @@ Making you independent from our services is our concern. That's why we train you
 
 * Installation and administration of open technology
 * Maintenance and roadmap support for open source projects 
-* Using Github or Gitlab for advanced version control bringing traceability and simple searchability
+* Using Github or Gitlab for advanced version control bringing traceability and advanced searchability
 * Continuous integration and deployment 
 * Evaluation of free third party applications for quality and suitability
 * Contribution to free projects your depend on by bug fixing, feature integration, donating or issue reporting
 * Rapid Prototyping based on existing code base
+* Free education and motivation of employees by open source contribution
 
 
 Training and education for longtime success of your organization:
