@@ -7,23 +7,27 @@ menu:
 layout: docs
 ---
 
-{{% blocks/cover title="Services" height="auto" %}}
+{{% blocks/cover title="Services" height="max" %}}
 
 
 The development of innovative products requires creative people with efficient tooling, flexible infrastructure, open organizations and agile methods. Various open source communities and projects provide a variety of sub-functions and solutions. The challenge is to combine the right tools and ensure sufficient support from the community and open source companies over the complete product life cycle. This enables to build powerful, independent and efficient ecosystems for research and development to accompany innovative products from proof-of-concepts to market release.
 
+
+
 {{< blocks/link-down color="info" >}}
+
+&nbsp      
 {{% /blocks/cover %}}
 
 {{< blocks/section color="dark" >}}
-{{% blocks/feature icon="fa fa-project-diagram" title="Consulting" url="#what-strategies-does-a-organization-need-to-create-economic-and-successful-products-based-on-open-technology" %}}
+{{% blocks/feature icon="fa fa-project-diagram" title="Consulting"  %}}
 What strategies does a organization need to create economic and successful products based on open technology? {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa fa-hands-helping" title="Application and Support" url="#where-can-you-find-support-in-the-application-of-open-technologies" %}}
+{{% blocks/feature icon="fa fa-hands-helping" title="Application and Support" %}}
 Where can you find support in the application of open technologies for your development environment, infrastructure and product?
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa fa-chalkboard-teacher" title="Training" url="#how-can-my-organization-apply-for-non-profit-support" %}}
+{{% blocks/feature icon="fa fa-chalkboard-teacher" title="Training" %}}
 How can you train and educate management and developers in the usage for open technology?
 {{% /blocks/feature %}}
 
@@ -32,7 +36,7 @@ How can you train and educate management and developers in the usage for open te
 {{< /blocks/section >}}
 
 {{% blocks/section type="section" color="white" %}}
-## What strategies does an organization need to create economic and successful products based on open technology?
+
 
 <br>
 &nbsp      
@@ -78,23 +82,33 @@ How can you train and educate management and developers in the usage for open te
 </table>
         
 
+&nbsp      
+&nbsp      
+&nbsp      
+&nbsp      
+## Find support in the application of open technologies
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="dark" %}}
-## Where can you find support in the application of open technologies?
 
 Our services are separated into public and private support. Please check out the community for public acceleration of our product.
 
-[**Read more**](/services/consulting/) about the open accelerator documentation, or get in touch with Protontypes and the [**community**](/community/).
+[**Read more**](/services/consulting/) about our commercial services, or get in touch with Protontypes and the [**community**](/community/).
 
  We stay in touch to multiple organization and experts for the toolset we advice to use. Our open source application engineers support you in all domains of technology integration. After identifying your requirements, we evaluate suitable technologies on which you can build. On the basis of exemplary implementations, we show you opportunities and challenges right from the start.
 
 If no professional support can be achieved by the original open source project owner or the community, Protontypes fills this gap with expertise and resources to ensure long time support and industrialization of research code. 
+
+&nbsp      
+&nbsp      
+&nbsp      
+&nbsp      
+# Find the right toolchain for your services and products
+
 {{% /blocks/section %}}
 
 
 {{% blocks/section type="section" color="white" %}}
-# Find the right toolchain for your services and products
 
 Protontypes offers experiences in the application of open source tooling for product development in the domain of robotics, big data, software testing, autonomous driving and many other domains.
 Our toolchain in robotics documented and maintained in the [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) list by Protontypes.
@@ -102,11 +116,16 @@ The list grew to be one of the major entry points for developers and organizatio
 
 <img src="devops-toolchain.svg" class="sectionlogocenter"/>
 
+&nbsp      
+&nbsp      
+&nbsp      
+&nbsp      
+# Apply for non-profit support
+
 {{% /blocks/section %}}
 
 
 {{% blocks/section type="section" color="dark" %}}
-## How can my organization apply for non-profit support?
 
 The focus of Protontypes is open sustainable technology support. We are committed to invest all revenues in the support of sustainable start-ups.
 
@@ -125,11 +144,16 @@ To increase your chance for acceleration please answer the following questions:
 * Why do your think that open and sustainable technology does fit together?
 
 Selection is based on free resources available in our organization and community.
+
+&nbsp      
+&nbsp      
+&nbsp      
+&nbsp      
+## Train my organization in the usage for open technology?
 {{% /blocks/section %}}
 
 
 {{% blocks/section type="section" color="white" %}}
-## How can I train my organization in the usage for open technology?
 Making you independent from our services is our concern. That's why we train your team in business and research application of open source technology:
 
 * Installation and administration of open technology
@@ -147,10 +171,15 @@ Training and education for longtime success of your organization:
 * Long-time effects by open technology strategies
 * Patent risks and opportunities in the usage of open source technology
 * Appropriate Project Management methods like [SCRUM](https://www.scrumguides.org/scrum-guide.html), [Extreme Programming](http://www.extremeprogramming.org/) or the [V-Model](https://en.wikipedia.org/wiki/V-Model).
+
+&nbsp      
+&nbsp      
+&nbsp      
+&nbsp      
+## Sustain an active community around product development 
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="dark" %}}
-## Sustain an active community around product development 
 
 Protontypes supports you in active community building and care:
 
@@ -167,3 +196,4 @@ We also enable you to create partnerships with organizations of your industry:
 
 
 {{% /blocks/section %}}
+
