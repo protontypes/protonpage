@@ -155,7 +155,7 @@ enable = false
 
 [[params.links.user]]
     name = "Linkedin"
-    url = "https://www.linkedin.com/in/tobias-augspurger-5116b6191/"
+    url = "https://www.linkedin.com/company/protontypes"
     icon = "fab fa-linkedin"
         desc = "Get Connected"
 
@@ -166,13 +166,13 @@ enable = false
         desc = "Get Connected"
 
 [[params.links.developer]]
-    name = "Discourse"
+    name = "Community Forum"
     url = "https://discourse.protontypes.eu"
     icon = "fab fa-discourse"
         desc = "Open Community Support"
 
 [[menu.main]]
-    name = "The Free Laboratory"
+    name = "Community Forum"
     weight = 1 
     url = "https://discourse.protontypes.eu"
 
