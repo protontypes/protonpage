@@ -2,20 +2,20 @@
 date: 2020-09-01
 title: "Launch of protontypes"
 linkTitle: "Launch of protontypes"
-description: "Launch of protontypes - An Experimental Organisation"
-author: Tobias Augspurger ([@protontypes](https://twitter.com/protontypes))
+description: "An Experimental Organisation based on a new Funding Concept"
+author: Tobias Augspurger and Johannes Karoff ([@protontypes](https://twitter.com/protontypes))
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"  
   params:
-    byline: "Funding Distributon"
+    byline: ""
 ---
 
 Over the last year software innovation was largely driven by contributors and maintainers investing there free time to improve the core infrastructure that powers our digital world today. Over 70% of the commercial codebase is today based on free and open-source software [[1]](https://www.synopsys.com/blogs/software-security/5-open-source-trends-2020-ossra/). All large big tech companies build there core platform infrastructure based on this free technology [[2]](https://www.techrepublic.com/article/whats-really-behind-microsofts-love-of-open-source/).
 
-Today we will launch a large scale experiment to accelerate free, open and sustainable innovation. The idea of this experiment originated from a blog post of [Feross Aboukhadijeh](https://feross.org/funding-experiment-recap/) who realized that the profit of this development only goes to the Big Tech companies and larger software project. Most software dependencies are left out from compensations. Donations end up at the maintainers and the distribution to the contributors is arbitrary. Commercial companies worldwide tried to solve this problem by commercial platforms like Github Sponsor, Tidelift or Patreon [[3]](https://www.oss.fund/all/). 
+Today we will launch a large scale experiment to accelerate free, open and sustainable innovation. The idea of this experiment originated from a blog post of [Feross Aboukhadijeh](https://feross.org/funding-experiment-recap/) who realized that the profit of this development only goes to the Big Tech companies and larger software project. Most software dependencies are left out from compensations. Donations end up at the maintainers and the distribution to the contributors is arbitrary. Commercial companies worldwide tried to solve this problem by commercial platforms like Github Sponsor, Tidelift or Patreon [[3]](https://www.oss.fund/all/). Non of this projects offert a simple independent solution with minimum fees and an easy way to adapt to different project requirments. Another blog post suggests the creation of an donation pool for GitHub Actions but does not discribe how the technical implemenation would look like. `there's currently no way to make a donation to the abstract concept of "open source software"` [[4]](https://vriad.com/essays/a-new-funding-model-for-open-source-software). This is not true anymore:
 
- protontypes developed a new concept to remove the middleman in funding distribution with a free and open tool called [LibreSelery](https://github.com/protontypes/libreselery).  The goal is to create a platform-independent tool to sustain continuous and autonomous payout to contributors in a transparent way. Get your fresh Selery now and by integrating [LibreSelery](https://github.com/protontypes/libreselery) into any Github project you would like to. By using LibreSelery in your project you are able to involve every person in your main project and dependency tree into the profit that you make.
+ protontypes developed a new concept to remove the middleman in funding distribution with a free and open tool called [LibreSelery](https://github.com/protontypes/libreselery).  The goal is to create a platform-independent tool to sustain continuous and autonomous payout to contributors in a transparent way. Get your fresh Selery now and by integrating [LibreSelery](https://github.com/protontypes/libreselery) into any Github project you would like to. By using LibreSelery in your project you are able to involve every person in your main project and dependency tree into the profit that you make. The tools runs independely in the Continouse Integration pipeline of your project. All sources, log files and the transaction history is fully transparent for all user login into Github. 
 
 {{< imgproc featured Resize "700x" >}}
 {{< /imgproc >}}
