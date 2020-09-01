@@ -1,46 +1,26 @@
 ---
-date: 2020-06-20
-title: "A home to spread open innovation and technology"
-linkTitle: "Announcing Protontypes"
-description: "The Docsy Hugo theme lets project maintainers and contributors focus on content, not on reinventing a website infrastructure from scratch"
-author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
+date: 2020-09-01
+title: "Launch of protontypes"
+linkTitle: "Launch of protontypes"
+description: "Launch of protontypes - An Experimental Organisation"
+author: Tobias Augspurger ([@protontypes](https://twitter.com/protontypes))
 resources:
 - src: "**.{png,jpg}"
-  title: "Image #:counter"
+  title: "Image #:counter"  
   params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
+    byline: "Funding Distributon"
 ---
 
-**This is a typical blog post that includes images.**
+Over the last year software innovation was largely driven by contributors and maintainers investing there free time to improve the core infrastructure that powers our digital world today. Over 70% of the commercial codebase is today based on free and open-source software [[1]](https://www.synopsys.com/blogs/software-security/5-open-source-trends-2020-ossra/). All large big tech companies build there core platform infrastructure based on this free technology [[2]](https://www.techrepublic.com/article/whats-really-behind-microsofts-love-of-open-source/).
 
-The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.
+Today we will launch a large scale experiment to accelerate free, open and sustainable innovation. The idea of this experiment originated from a blog post of [Feross Aboukhadijeh](https://feross.org/funding-experiment-recap/) who realized that the profit of this development only goes to the Big Tech companies and larger software project. Most software dependencies are left out from compensations. Donations end up at the maintainers and the distribution to the contributors is arbitrary. Commercial companies worldwide tried to solve this problem by commercial platforms like Github Sponsor, Tidelift or Patreon [[3]](https://www.oss.fund/all/).  protontypes developed a new concept to remove the middleman in funding distribution with a free and open tool.  The goal is to create a platform-independent tool to sustain continuous and autonomous payout to contributors in a transparent way. Get your fresh Selery now and by integrating [LibreSelery](https://github.com/protontypes/libreselery) into any Github project you would like to. By using LibreSelery in your project you are able to involve every person in your main project and dependency tree into the profit that you make.
 
-## Including images
-
-Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
-
-{{< imgproc sunset Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
+{{< imgproc featured Resize "700x" >}}
 {{< /imgproc >}}
 
-The front matter of this post specifies properties to be assigned to all image resources:
+Based on LibreSelery we created a complete accelerator community for free and open projects that everyone can join. We support your project in the integration of LibreSelery and identification of suitable free tooling from our [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling). For our "Initiated" project we even search potential investors and contributors in combination with hands-on consulting. [Join the protontypes discourse forum](https://discourse.protontypes.eu/) and get involved into free and open technology acceleration as contributor or project owner. The inclusion of different perspectives in the project is important to us, therefore we are looking for a diverse community to conduct constructive discussions.
 
-```
-resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
-  params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
-```
 
-To include the image in a page, specify its details like this:
 
-```
-{{< imgproc sunset Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
-{{< /imgproc >}}
-```
-
-The image will be rendered at the size and byline specified in the front matter.
 
 
