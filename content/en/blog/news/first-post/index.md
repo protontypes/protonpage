@@ -3,7 +3,7 @@ date: 2020-09-02
 title: "Launch of protontypes"
 linkTitle: "Launch of protontypes"
 description: "LibreSelery solves the Donation Distribution Problem in Free Software"
-author: Tobias Augspurger, Johannes Karoff and Felix Dietze ([@protontypes](https://twitter.com/protontypes))
+author: Tobias Augspurger, Johannes Karoff, Felix Dietze, Nick Fiege, Arne Dörng and Dennis Zeipert ([@protontypes](https://twitter.com/protontypes))
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"  
@@ -24,10 +24,11 @@ Today we will launch a large scale experiment to accelerate free, open and susta
 
  _protontypes_ developed a new concept to remove the middleman in funding distribution with a free and open tool called [LibreSelery](https://github.com/protontypes/libreselery). The goal is to create a platform-independent tool to sustain continuous and autonomous payout to contributors in a transparent way. Anyone can immediately start collecting and distributing donations by integrating [LibreSelery](https://github.com/protontypes/libreselery) into any GitHub project. By using LibreSelery in your project, you will be able to include every person in your main project and dependency tree in the donations you collect. The tool runs in the continous integration pipeline of your project. All sources, log files and the transaction history is fully transparent for all GitHub users. We do not charge any fees since LibreSelery is not a platform. It is a piece of software. Only buying and selling cryptocurrency on the cryptomarket will create fees. For a simple integration we provide a GitHub template called [SeleryAction](https://github.com/protontypes/seleryaction) that offers user friendly integration without using the commandline. 
 
-{{< imgproc concept Resize "800x" >}}
+{{< imgproc concept Resize "900x" >}}
 {{< /imgproc >}}
 
 <h3>A Free Accelerator based on Free Funding</h3>
+
 LibreSelery was developed in our open community called _protontypes_.
 We support open source contributors in finding suitable [tools](https://github.com/protontypes/awesome-robotic-tooling), investors and contributors for your project. By using LibreSelery, it will be easier to find the right developers and supporters, because it ensures a transparent distribution of donations between all parties involved. 
 
