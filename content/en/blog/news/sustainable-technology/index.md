@@ -1,8 +1,8 @@
 ---
 date: 2020-10-05
-title: "Gathering Sustainable Technology"
+title: "Gathering Open Sustainable Technology"
 linkTitle: "Gathering Open Sustainable Technology"
-description: "How independent and open technology will increase our chance to reach the climate goals"
+description: "How independent and open technology will give us a real chance to reach climate targets"
 author: Tobias Augspurger, Johannes Karoff, Felix Dietze and Tjark Doering ([@protontypes](https://twitter.com/protontypes))
 resources:
 - src: "**.{png,jpg}"
@@ -19,9 +19,9 @@ As climate change is a globally emerging challenge, for this reason protontypes 
 
 In the scope of this list we define sustainable technology as follows:
 
-> Technology to preserve global energy supply and vital natural resources 
+> Technology to preserve global energy supply and vital natural resources. 
 
-For technology to be truly sustainable, everyone must have access to it and be able to adapt it to their needs. Especially in the development of sustainability technology, we need to be fast and efficient. By spreading knowledge in this domain with open software, standards, tools, and platforms a sustainable economy can be reached in a short timespan. Open source is part of this process and helps us to save time by not reinventing the wheel. 
+For technology to be truly sustainable, everyone must have access to it and be able to adapt it to their needs. Especially in the development of sustainability technology, we need to be fast and efficient. By spreading knowledge in this domain with open software, standards, tools, and platforms a sustainable economy can be reached in a short timespan. Open source is part of this process and helps us to save time by not reinventing the wheel.
 
 Countries such as Germany or the United Kingdom now generate most of their electricity from renewable energy sources and show how to successfully maintain a large-scale renewable energy supply. [[1]](https://www.rechargenews.com/transition/germany-s-renewable-power-share-surges-to-56-amid-covid-19-impact/2-1-837212)
 Making their technologies open to everyone will increase our chance to reach our climate goals.
@@ -35,7 +35,7 @@ Making their technologies open to everyone will increase our chance to reach our
 </div>
 {{< /imgproc >}}
 
-In technology domains like web technology, artificial intelligence, or high-performance computing the success of open standards, frameworks and methods can also be seen today. All the giant Internet companies build their platforms based on free and open technology like Docker, Linux, Python, React, Kubernetes, or TensorFlow [[2]](https://protontypes.eu/about_free_innovation/). Can these success stories inspire us in our most vital challenges today?
+In technology domains like web technology, artificial intelligence, or high-performance computing the success of open and independent standards, frameworks and methods can also be seen today. All the giant Internet companies build their platforms based on free and open technology like Docker, Linux, Python, React, Kubernetes, or TensorFlow [[2]](https://protontypes.eu/about_free_innovation/). Can these success stories inspire us in our most vital challenges today?
 
 
 ## Deep Dive into Open and Sustainable Technology
