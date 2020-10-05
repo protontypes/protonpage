@@ -1,6 +1,6 @@
 ---
-title: "Blog of protontypes"
-linkTitle: "Blog of protontypes"
+title: "Blog"
+linkTitle: "Blog"
 menu:
   main:
     weight: 1
