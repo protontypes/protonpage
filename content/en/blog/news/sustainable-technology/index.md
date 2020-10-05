@@ -19,7 +19,7 @@ Open-source helps all of us to not reinvent the wheel.  Especially in the develo
 
 {{< imgproc conditioned Resize "200x" >}}
 
-Visualization of Water Flow Direction with (pysheds)[https://mattbartos.com/pysheds/] Library.  
+<a href="https://mattbartos.com/pysheds">Visualization of Water Flow Direction with</a>
 
 {{< /imgproc >}}
 
@@ -28,7 +28,7 @@ In technology domain like web technology, artificial intelligence or high perfor
 ## Accelerating Open and Sustainable Technology
 
 In our search for open and sustainable technologies we have come across a number of very ambitious and high-quality projects. Unfortunately, there was no sign of activity in most of them. Many of these projects were open source but no longer advertised. As there is no project index in this area so far, it was not easy for developers worldwide to find these "gems" and develop the tools accordingly. The resulting "reinvention of the wheel" takes the time for many projects to concentrate on new innovations.  This is the reason why we have tried to focus only on active projects.  So there is a high chance that an active community will be formed around the project.  Many domains already show the emerging of a strong communities. Based on our research, we were able to identify a general trend towards open and sustainable technologies. In the last two years in particular, a large number of astonishing projects have been developed. We hope to present this qualitative impression better in the future on the basis of hard figures, but the Awesome Sustainable Technology List is already a very clear indicator. In particular, the photovoltaic and wind turbine sector shows a clear trend and a large number of professional projects.  The crowning glory is probably a 15-MW offshore wind turbine, which was developed in cooperation between the National Renewable Energy Laboratory and
-Technical University of Denmark. Almost all technical documentation has been provided under the MIT Open Source License.[[3]](https://github.com/IEAWindTask37/IEA-15-240-RWT) This standard will enable companies and research institutions to further develop this technology without any major hurdles from Intellectual Proprietary. Many tools around the development are also available under an open license. On the basis of these technologies it is possible to secure a large part of the energy supply for entire coastal regions. Although this is a historic step, the 62 stars on GitHub show how little attention is still paid to this domain. 
+Technical University of Denmark. Almost all technical documentation has been provided under the MIT Open Source License [[3]](https://github.com/IEAWindTask37/IEA-15-240-RWT). This standard will enable companies and research institutions to further develop this technology without any major hurdles from Intellectual Proprietary. Many tools around the development are also available under an open license. On the basis of these technologies it is possible to secure a large part of the energy supply for entire coastal regions. Although this is a historic step, the 62 stars on GitHub show how little attention is still paid to this domain. 
 
 {{< imgproc 15MWCADModel Resize "200x" >}}
 
@@ -43,7 +43,7 @@ In the field of energy system modeling and climate research we found a some larg
  In general, the impression is that most projects are developed further by public institutions, research institutes and private individuals. Large companies can only be found in a few places. By funding such projects, it would be much easier for companies to counter their own influence on the climate in the long term. 
 
 <img src="https://raw.githubusercontent.com/wiki/pedropro/TACO/images/1.png" width="17%" hspace="3">
-
+https://github.com/pedropro/TACO
 
 ## A Direct Comparison
 
