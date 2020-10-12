@@ -20,14 +20,14 @@ The following chart shows the distribution of funds among the larger projects in
 
 Today we will launch a large scale experiment to accelerate free, open and sustainable innovation. The idea of this experiment originated from a blog post of [Feross Aboukhadijeh](https://feross.org/funding-experiment-recap/) who realized that the profit of this development only goes to the big tech companies and larger software projects. Most software dependencies are not considered in the compensations. Donations only go to the maintainers, distribution to other contributors is arbitrary and often non-existent. Commercial companies worldwide tried to solve this problem with commercial solutions like GitHub Sponsor, OpenCollective, Tidelift or Patreon [[3]](https://www.oss.fund/all/). There is no free and open source solution to solve this problem yet. Another blog post suggests the creation of a donation pool for GitHub Actions but does not describe how the technical implemenation would look like. Colin McDonnell states: `there's currently no way to make a donation to the abstract concept of "open source software"` [[4]](https://vriad.com/essays/a-new-funding-model-for-open-source-software). From now on this is no longer valid:
 
-<h3>LibreSelery</h3>
+## LibreSelery
 
  _protontypes_ developed a new concept to remove the middleman in funding distribution with a free and open tool called [LibreSelery](https://github.com/protontypes/libreselery). The goal is to create a platform-independent tool to sustain continuous and autonomous payout to contributors in a transparent way. Anyone can immediately start collecting and distributing donations by integrating [LibreSelery](https://github.com/protontypes/libreselery) into any GitHub project. By using LibreSelery in your project, you will be able to include every person in your main project and dependency tree in the donations you collect. The tool runs in the continous integration pipeline of your project. All sources, log files and the transaction history is fully transparent for all GitHub users. We do not charge any fees since LibreSelery is not a platform. It is a piece of software. Only buying and selling cryptocurrency on the cryptomarket will create fees. For a simple integration we provide a GitHub template called [SeleryAction](https://github.com/protontypes/seleryaction) that offers user friendly integration without using the commandline. 
 
 {{< imgproc concept Resize "900x" >}}
 {{< /imgproc >}}
 
-<h3>A Free Accelerator based on Free Funding</h3>
+## A Free Accelerator based on Free Funding
 
 LibreSelery was developed in our open community called _protontypes_.
 We support open source contributors in finding suitable [tools](https://github.com/protontypes/awesome-robotic-tooling), investors and contributors for your project. By using LibreSelery, it will be easier to find the right developers and supporters, because it ensures a transparent distribution of donations between all parties involved. 
