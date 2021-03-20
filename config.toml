@@ -175,8 +175,3 @@ enable = false
     name = "Community Forum"
     weight = 1 
     url = "https://gitter.im/protontypes/community"
-
-[[menu.main]]
-    name = "LibreSelery"
-    weight = 0
-    url = "https://github.com/protontypes/libreselery"
