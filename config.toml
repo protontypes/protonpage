@@ -1,7 +1,7 @@
 baseURL = "https://protontypes.eu"
-title = "Protontypes"
+title = "protontypes"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["docsy"]
