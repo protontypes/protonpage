@@ -166,15 +166,15 @@ enable = false
         desc = "Get Connected"
 
 [[params.links.developer]]
-    name = "Community Forum"
-    url = "https://discourse.protontypes.eu"
-    icon = "fab fa-discourse"
+    name = "Community Chat"
+    url = "https://gitter.im/protontypes/community"
+    icon = "fab fa-gitter"
         desc = "Open Community Support"
 
 [[menu.main]]
     name = "Community Forum"
     weight = 1 
-    url = "https://discourse.protontypes.eu"
+    url = "https://gitter.im/protontypes/community"
 
 [[menu.main]]
     name = "LibreSelery"
