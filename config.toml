@@ -1,4 +1,4 @@
-baseURL = "https//protontypes.eu"
+baseURL = "https://protontypes.github.io/protonpage/"
 title = "Protontypes"
 
 enableRobotsTXT = true
