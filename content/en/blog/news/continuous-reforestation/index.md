@@ -28,7 +28,10 @@ Modern development processes such as *Continuous Integration* and *Continuous De
 
 Continuous Reforestation is an important module in this context. A process that is otherwise used for quality assurance and automatic delivery of products can now also be used to reduce the ecological footprint of products. Another advantage is the disclosure of the life cycle assessment. Companies are now able to publicly demonstrate the sustainability of their own products and how they offset their own impact on the environment. Customers and independent institutions have the opportunity to get a direct insight into the data. Greenwashing, one of the major problems on the way to an ecological economy, can thus be made much more difficult.
 
-{{< imgproc devop Resize "300x" >}}
+{{< imgproc devop Resize "500x" >}}
+<div style="text-align: center; display: flex; align-items: center; flex-direction: column">
+<a align="center" href="https://en.wikipedia.org/wiki/Continuous_integration">Continuous Integration - Modern software development method for the automation of development processes</a>
+</div>
 {{< /imgproc >}}
 
 ## Ecological Incentives
