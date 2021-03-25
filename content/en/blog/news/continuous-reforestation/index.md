@@ -13,7 +13,7 @@ resources:
 
 Even if the direct reduction of greenhouse gas emissions is the most cost effective and efficient way to stop climate change, it will still be necessary for decades to capture the already produced emissions from the atmosphere. Reforestation is one of the most efficient ways to do so. It is the only carbon capture technology that can be applied cost-effectively worldwide without generating large maintenance costs. At the same time, it restores original habitats that ensure biodiversity and provide other natural resources such as water, soil, and clean air.
 
-With the [Continuous Reforestation](https://github.com/protontypes/Continuous-Reforestation) concept we demonstrate a simple way to automate the offsetting of greenhouse gas emissions throughout the life cycle of your products.
+With the [Continuous Reforestation GitHub Action](https://github.com/protontypes/Continuous-Reforestation) concept we demonstrate a simple way to automate the offsetting of greenhouse gas emissions throughout the life cycle of your products. It allows you to plant any desired number of trees based on various actions in your workflow.
 
 ##  Automated Carbon Capture
 
