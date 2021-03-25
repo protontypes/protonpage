@@ -15,13 +15,6 @@ Even if the direct reduction of greenhouse gas emissions is the most cost effect
 
 With the [Continuous Reforestation](https://github.com/protontypes/Continuous-Reforestation) concept we demonstrate a simple way to automate the offsetting of greenhouse gas emissions throughout the life cycle of your products.
 
-
-{{< imgproc featured-reforestation Resize "300x" >}}
-<div style="text-align: center; display: flex; align-items: center; flex-direction: column">
-<a align="center" href="https://github.com/protontypes/continuous-reforestation">Continuous Reforestation - Make tree planting a part of your daily workflow.</a>
-</div>
-{{< /imgproc >}}
-
 ##  Automated Carbon Capture
 
 Modern development processes such as *Continuous Integration* and *Continuous Deployment* frame the product usage and product development processes in a recurring, automated cycle. Moreover, through a constant capture of field data, detailed information about the entire [life cycle impact](https://en.wikipedia.org/wiki/Life-cycle_assessment) can be generated. By combining these two apparently disconnected mechanisms, a direct and automated path to compensate the estimated ecological footprint becomes possible for many product today. 
