@@ -11,7 +11,7 @@ resources:
     byline: ""
 ---
 
-Even if the direct reduction of greenhouse gas emissions is the most cost effective and efficient way to stop climate change, it will still be necessary for decades to capture the already produced emissions from the atmosphere. Reforestation is one of the most efficient ways to do so. It is the only carbon capture technology that can be applied cost-effectively worldwide without generating large maintenance costs. At the same time, it restores original habitats that ensure biodiversity and provide other natural resources such as water, soil, and clean air. [[1]](https://www.climateaction.org/news/un_summit_sets_new_climate_finance_and_deforestation_targets)[[2]](https://www.theguardian.com/environment/2019/jul/04/planting-billions-trees-best-tackle-climate-crisis-scientists-canopy-emissions)
+Even if the direct reduction of greenhouse gas emissions is the most cost effective and efficient way to stop climate change, it will still be necessary for decades to capture the already produced emissions from the atmosphere. Reforestation is one of the most efficient ways to do so. It is the only carbon capture technology that can be applied cost-effectively worldwide without generating large maintenance costs. At the same time, it restores original habitats that ensure biodiversity and provide other natural resources such as water, soil, and clean air.
 
 With the [Continuous Reforestation](https://github.com/protontypes/Continuous-Reforestation) concept we demonstrate a simple way to automate the offsetting of greenhouse gas emissions throughout the life cycle of your products.
 
@@ -49,7 +49,7 @@ Continuous Reforestation was developed using DigitalHumani's Reforestation as a 
 {{< imgproc architecture Resize "900x" >}}
 <div style="text-align: center; display: flex; align-items: center; flex-direction: column">
 <a href="https://digitalhumani.com/">
-The architecture of reforestation as a service
+The architecture of Reforestation as a Service from Digital Humani
 </a>
 </div>
 {{< /imgproc >}}
