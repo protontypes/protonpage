@@ -2,7 +2,7 @@
 date: 2021-03-25
 title: "Continuous Reforestation"
 linkTitle: "Continuous Reforestation"
-description: "Automation of reforestation as large global large scale carbon capture technology"
+description: "Automated reforestation as a global scale carbon capture technology"
 author: Tjark Doering, Alejandro Aristi, Jonathan Villiard, Tobias Augspurger, Carl Scheller ([@protontypes](https://twitter.com/protontypes)) ([@Digital Humani](https://twitter.com/Digital_Humani))
 resources:
 - src: "**.{png,jpg}"
@@ -10,16 +10,17 @@ resources:
   params:
     byline: ""
 ---
+## TL;DR
 
-Even if the direct reduction of greenhouse gas emissions is the most cost effective and efficient way to stop climate change, it will still be necessary for decades to capture the already produced emissions from the atmosphere. Reforestation is one of the most efficient ways to do so. It is the only carbon capture technology that can be applied cost-effectively worldwide without generating large maintenance costs. At the same time, it restores original habitats that ensure biodiversity and provide other natural resources such as water, soil, and clean air.
+Although directly reducing greenhouse gas emissions is the best way to curb climate change in terms of cost and effectiveness, it will still be necessary to capture emissions already produced in the atmosphere for some decades to come. Reforestation is one of the most effective ways to do this as it is the only carbon sequestration technology that can be implemented cost-effectively and without generating large maintenance costs at the global scale. At the same time, it restores the original ecosystems that ensure biodiversity and provide other valuable natural resources such as water, soil and clean air.
 
-With the [Continuous Reforestation GitHub Action](https://github.com/protontypes/Continuous-Reforestation) concept we demonstrate a simple way to automate the offsetting of greenhouse gas emissions throughout the life cycle of your products. It allows you to plant any desired number of trees based on various actions in your workflow.
+With the [Continuous Reforestation GitHub Action](https://github.com/protontypes/Continuous-Reforestation) concept we demonstrate a simple way to automate the offsetting of greenhouse gas emissions throughout the life cycle of your products. It allows you to plant any desired number of trees based on various actions in your development workflow.
 
 ##  Automated Carbon Capture
 
-Modern development processes such as *Continuous Integration* and *Continuous Deployment* frame the product usage and product development processes in a recurring, automated cycle. Moreover, through a constant capture of field data, detailed information about the entire [life cycle impact](https://en.wikipedia.org/wiki/Life-cycle_assessment) can be generated. By combining these two apparently disconnected mechanisms, a direct and automated path to compensate the estimated ecological footprint becomes possible for many product today. 
+Modern development processes such as *Continuous Integration* and *Continuous Deployment* frame the product usage and product development processes in a recurring, automated cycle. On the other hand, through a constant capture of field data, detailed information about the entire [life cycle impact](https://en.wikipedia.org/wiki/Life-cycle_assessment) can be generated. By combining these two apparently disconnected mechanisms, a direct and automated path to compensate for the estimated ecological footprint of many products becomes possible.
 
-Continuous Reforestation is an important module in this context. A process that is otherwise used for quality assurance and automatic delivery of products can now also be used to reduce the ecological footprint of products. Another advantage is the disclosure of the life cycle assessment. Companies are now able to publicly demonstrate the sustainability of their own products and how they offset their own impact on the environment. Customers and independent institutions have the opportunity to get a direct insight into the data. Greenwashing, one of the major problems on the way to an ecological economy, can thus be made much more difficult.
+Continuous Reforestation is an important enabler in this context. A process that is otherwise used for quality assurance and lean development of digital products can also be used to reduce their ecological footprint. Moreover, it allows for a disclosure of the life cycle emissions and offsetting actions. Companies are now able to publicly demonstrate the sustainability of their products and how they offset their own impact on the environment. Customers and independent institutions have the opportunity to get a direct insight into the data. Greenwashing, one of the major problems on the way to an environmentaly sustainable economy, can thus be made much more difficult.
 
 {{< imgproc devop Resize "500x" >}}
 <div style="text-align: center; display: flex; align-items: center; flex-direction: column">
@@ -29,7 +30,7 @@ Continuous Reforestation is an important module in this context. A process that 
 
 ## Ecological Incentives
 
-The usage of continous reforestation in the development of open source products also creates ecological incentives in an straightforward way. The [OpenSustain.tech](https://opensustain.tech/) project is planting trees with every successful pull request, generating new project contributors. A variety of actions can be rewarded in this way by planting trees:
+The usage of Continuous Reforestation in the development of open source products also creates ecological incentives in an straightforward way. The [OpenSustain.tech](https://opensustain.tech/) project is planting trees with every successful pull request. This has helped in the generation of new contributors which is a key aspect of the openness behind the project. A variety of actions can be rewarded in this way by planting trees:
 
 * Reward pull request and first contributions to your project by planting trees accordingly.
 * Motivate yourself and collegues to work on a project.
@@ -38,7 +39,7 @@ The usage of continous reforestation in the development of open source products 
 
 ## Reforestation as a Service and Digital Humani
 
-Continuous Reforestation was developed using DigitalHumani's Reforestation as a Service (RaaS), an interface to simplify commissioning of tree planting reforestation organizations via a single entrypoint. **[Digital Humani](https://digitalhumani.com/)** is a non-profit run by a band of dedicated volunteers from all over the globe with a mission to fight climate change by offering a free RaaS solution. They provide simple and easy to use Application Programming Interfaces (API) to help connect websites and mobile applications to trusted organisations that focus on ecosystems restoration. The RaaS solution is built by a team of IT experts with a high expertise of cloud technologies. The solution is highly secure, reliable, and scalable. It is an attempt to integrate reforestation as simply as possible into the development of products and processes. With their API, forest restoration can be easily automated, providing various benefits for the world by:
+Continuous Reforestation was developed using DigitalHumani's Reforestation as a Service (RaaS), an interface that simplifies the commissioning of tree planting to reforestation organizations via a single entrypoint. **[Digital Humani](https://digitalhumani.com/)** is a non-profit run by a band of dedicated volunteers from all over the globe with a mission to fight climate change by offering a free RaaS solution. They provide simple and easy to use Application Programming Interfaces (API) to help connect websites and mobile applications to trusted organisations that focus on ecosystems restoration. The RaaS solution is built by a team of IT experts with a high expertise in cloud technologies. The solution is highly secure, reliable, scalable, and an attempt to integrate reforestation as simply as possible into the development of products and processes. With their API, forest restoration can be easily automated, providing various benefits for the world by:
 
 * Cleaning the air 
 * Absorbing carbon 
@@ -75,9 +76,9 @@ The global tree restoration potential
 
 ## Going a step further
 
-The continuous reforestation project has the potential to compensate greenhouse gases emissions within the working processes in an automated way. Hence, emissions caused by the design, development, and use of the products can be directly compensated. By disclosing the process steps, models, and reforestation status, the sustainability of a product can be transparently displayed to the customer. 
+The Continuous Reforestation project has the potential to compensate greenhouse gases emissions within the working processes in an automated way. Hence, emissions caused by the design, development, and use of the products can be directly compensated. By disclosing the process steps, models, and reforestation status, the sustainability of a product can be transparently displayed to the customer. 
 
-Later on, with the help of the open source project [Scaphandre](https://github.com/hubblo-org/scaphandre), we will show how private individuals and companies can automatically compensate emissions from their servers and PCs.
+As a next step, with the help of the open source project [Scaphandre](https://github.com/hubblo-org/scaphandre), we will show how private individuals and companies can automatically compensate emissions from their servers and PCs.
 
 
 ## Conclusion
