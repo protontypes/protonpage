@@ -2,7 +2,7 @@
 date: 2021-03-25
 title: "Continuous Reforestation"
 linkTitle: "Continuous Reforestation"
-description: "Automated reforestation as a global scale carbon capture technology"
+description: "Automated reforestation for carbon sequestration on a global scale"
 author: Tjark Doering, Alejandro Aristi, Jonathan Villiard, Tobias Augspurger, Carl Scheller ([@protontypes](https://twitter.com/protontypes)) ([@Digital Humani](https://twitter.com/Digital_Humani))
 resources:
 - src: "**.{png,jpg}"
